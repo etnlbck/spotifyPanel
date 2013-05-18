@@ -7,12 +7,12 @@
   
   "homepage_url":"http://www.natelubeck.com",
 
-  "permissions":["http://ws.spotify.com/","tabs"],
+  "permissions":["http://pile-of-cash.com/","tabs"],
   "background": {
     "persistent": true,
     "page":"background.html"
     
     
-  },
-   "content_security_policy": "script-src 'self' https://ws.spotify.com; object-src 'self' https://ws.spotify.com; connect-src 'self' http://ws.spotify.com"
+  }
+ 
 }
